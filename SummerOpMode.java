@@ -17,7 +17,7 @@ public class SummerOpMode extends LinearOpMode {
     private DcMotor backLeft = null;
     private DcMotor backRight = null;
 
-    private float maxVelocity = 1.0f;
+    private double maxVelocity = 1.0;
 
     private int ctrlPow=3;
 
